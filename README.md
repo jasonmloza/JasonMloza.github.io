@@ -1,2 +1,1 @@
-# JasonMloza.github.io
-My personal portfolio website showcasing AI projects, coding experiments, and technology.
+Jason Mloza — AI Developer, Builder, and Innovator. Portfolio showcasing AI systems, MineralIQ, Alfred AI Assistant, and technology projects.
